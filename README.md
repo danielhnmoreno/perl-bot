@@ -18,10 +18,15 @@ http://www.go4expert.com/articles/irc-bot-perl-t11831/
 
 
 From IRC channel
+
 !udp
+
 Start UDP flood against IP 192.168.1.1 and port 80
 
 
+
 From IRC channel
+
 !stop
+
 Stop UDP flood against IP 192.168.1.1 and port 80
