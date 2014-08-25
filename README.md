@@ -9,6 +9,7 @@ The use of the script will be unique and exclusive responsibility of those who u
 
 Based on
 http://packetstorm.wowhacker.com/DoS/udp.pl
+
 http://www.go4expert.com/articles/irc-bot-perl-t11831/
 
 From IRC channel
